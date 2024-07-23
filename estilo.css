@@ -1,0 +1,14 @@
+h1,{
+    color:blue;
+}
+
+h2{
+    margin: 0px;
+}
+
+.time{
+    widt: 80%;
+    border: solid black 1px;
+    padding: 20px;
+    margin: 50px;
+}
