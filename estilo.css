@@ -1,14 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Farsan&display=swap');
+body{
+    font-family: "Farsan", cursive;
+  font-weight: 800;
+  font-style: normal;
+           
+}
+
 h1,{
     color:blue;
+    font-size: 100px;
 }
 
 h2{
     margin: 0px;
+    font-size: 60px;
 }
 
+p{
+    font-size: 30px;
+}
 .time{
     widt: 80%;
     border: solid black 1px;
     padding: 20px;
     margin: 50px;
+    box-shadow: 5px 5px rgb(45, 3, 196);
+}
+
+img{
+    width: 400px;
+    margin: 90px;
 }
